@@ -1,31 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-#permalink:           pretty
+permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:               Numerické metódy 2020/2021
-tagline:             štvrtok 7:30
-description:         Stránky venované cvičeniam predmetu NME1
-url:                 localhost:4000
-paginate:            1
-#baseurl:             "http://babjarob.github.io/babjarob.github.io/"
-baseurl:             
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+title:            Numerika
+tagline:          'štvrtok 7:30'
+description:      'Stránky k cvičeniam z predmetu Numerické metódy (NME1) na FJFI ČVUT - cvičenie štvrtok 7:30'
+url:              
+baseurl:          /
 
-# About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+paginate:         5
+
