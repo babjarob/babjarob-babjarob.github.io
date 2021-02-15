@@ -8,7 +8,6 @@ sidebar_link: true
   Stránka je v stave pernamentnej rekonštrukcie
 </p>
 
-
-Róbert Babjak
-babjrob@fjfi.cvut.cz
-Ústav fyziky plazmatu AV ČR
+Róbert Babjak<br />
+babjrob@fjfi.cvut.cz<br />
+Ústav fyziky plazmatu AV ČR<br />
