@@ -7,7 +7,8 @@
 # Setup
 title:               Numerické metódy 2020/2021
 tagline:             štvrtok 7:30
-url:                 
+description:         Stránky venované cvičeniam predmetu NME1
+url:                 localhost:4000
 paginate:            1
 #baseurl:             "http://babjarob.github.io/babjarob.github.io/"
 baseurl:             
