@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Numerika
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+tagline:          'štvrtok 7:30'
+description:      'Stránka venovaná cvičeniam predmetu Numerické metódy (NME1) na FJFI ČVUT'
 url:              
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
