@@ -13,6 +13,12 @@ description:      'Stránky k cvičeniam z predmetu Numerické metódy (NME1) na
 url:              
 baseurl:          /
 
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
