@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Numerika
 tagline:          'štvrtok 7:30'
-description:      'Stránky k cvičeniam z predmetu Numerické metódy (NME1) na FJFI ČVUT - cvičenie štvrtok 7:30'
+description:      'Stránky k cvičeniam z predmetu Numerické metódy (NME1) na FJFI ČVUT'
 url:              
 baseurl:          /
 
