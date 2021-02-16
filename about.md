@@ -2,6 +2,7 @@
 layout: page
 title: Kontakt
 sidebar_link: true
+sidebar_sort_order:4
 ---
 
 <p class="message">
