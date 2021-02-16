@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Informácie k priebehu cvičení
+title: Priebeh cvičení
 sidebar_link: true
+sidebar_sort_order: 2
 ---
 
 Vitajte na stránkach k cvičeniam z Numerických metód prebiehajúcich na FJFI ČVUT. Tento 
