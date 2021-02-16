@@ -9,5 +9,5 @@ sidebar_link: true
 </p>
 
 Róbert Babjak<br />
-babjrob@fjfi.cvut.cz<br />
+babjarob@fjfi.cvut.cz<br />
 Ústav fyziky plazmatu AV ČR<br />
