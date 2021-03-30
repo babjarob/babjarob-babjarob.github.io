@@ -10,5 +10,6 @@ sidebar_sort_order: 4
 </p>
 
 Róbert Babjak<br />
-babjarob@fjfi.cvut.cz<br />
-Ústav fyziky plazmatu AV ČR<br />
+babjarob -at- fjfi . cvut . cz<br />
+[Ústav fyziky plazmatu AV ČR](http://www.ipp.cas.cz/)<br />
+[Group for Lasers and Plasmas, Instituto Superior Técnico](http://epp.tecnico.ulisboa.pt/)

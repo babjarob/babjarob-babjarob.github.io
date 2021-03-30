@@ -31,3 +31,7 @@ v priebehu štvrtku na nástenku skupiny Team-B202-12NME1-Maslarova_Babjak.
    odovzdávať úlohy napr. v LISPe) 
  * Materiály k druhej časti cvičení nájdete [zde](http://babjarob.github.io), prvú časť nájdete
    [tam](http://maslarova.github.io)
+
+Cvičenia vo veľkej miere využívajú videá, ktoré nahral Honza Vábek. Záujemcovia si samozrejme môžu prejsť všetky materiály na 
+jeho youtube [stránke](https://www.youtube.com/channel/UCgizHUrWvA1j11Px2vrygDA), v materiálom k cvičeniam však uvediem časti videí, ktoré
+sú povinné pre každého. 
