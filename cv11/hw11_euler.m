@@ -54,3 +54,10 @@ figure
 plot(t,abs(E-E0))
 xlabel('$t$');
 ylabel('$|E-E0|$');
+
+%eh1= ;
+%eh2= ;
+%h1=0.0025;
+%h2=0.0005;
+
+%k = (log(eh1/eh2))/(log(h1/h2))
